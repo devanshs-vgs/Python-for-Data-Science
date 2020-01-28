@@ -1,2 +1,2 @@
-# Numpy-Tricks
+# DataScience-Tricks
 It consist of almost all the commands of Python for Data Science.
